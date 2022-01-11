@@ -1,5 +1,10 @@
 streamlit
+pickle
 matplotlib
 pandas
 plotly
+plotly.express
+plotly.figure_factory
+plotly.offline
+iplot
 cufflinks
