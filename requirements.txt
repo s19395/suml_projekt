@@ -1,4 +1,5 @@
 streamlit
+sklearn
 matplotlib
 pandas
 plotly
